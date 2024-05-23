@@ -18,6 +18,7 @@ If you use this project, cite:
     }
 
 You can also read our paper:
+
       <a href="https://www.sciencedirect.com/science/article/pii/S0957417423012769">A novel content-based image retrieval system with feature descriptor integration and accuracy noise reduction</a>
 
 You can download the core-10k-dataset by:
