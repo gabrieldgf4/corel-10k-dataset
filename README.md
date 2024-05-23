@@ -1,6 +1,8 @@
 # corel-10k-dataset
 
-The Corel-10K dataset contains 100 images in each of its 100 categories. The total number of images in this data set is 10,000, comprising 50 categories of the Corel-5K dataset and 50 categories with different attributes. The size of each image is either 192 × 128 or 128 × 192 pixels.
+The Corel-10K dataset contains 100 images in each of its 100 categories. The total number of images in this data set is 10,000, comprising 50 categories of the Corel-5K dataset and 50 categories with different attributes. The size of each image is either 192 × 128 or 128 × 192 pixels. 
+
+Dr. Guang-Hai Liu prepared this dataset, which we share here.
 
 If you use this project, cite:
 
